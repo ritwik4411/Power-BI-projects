@@ -1,6 +1,8 @@
-🏏 Power BI Cricket Analytics Project (ESPN Cricinfo Web Data) 📌 Project Overview
+🏏 Power BI Cricket Analytics Project (ESPN Cricinfo Web Data)
+📌 Project Overview
 
-This project is a Power BI–based cricket analytics solution built using live web data from ESPN Cricinfo. The report provides player-level performance insights across Batting, Bowling, and Fielding for India and South Africa.
+This project is a Power BI–based cricket analytics solution built using live web data from ESPN Cricinfo.
+The report provides player-level performance insights across Batting, Bowling, and Fielding for India and South Africa.
 
 The key objective of this project is to demonstrate:
 
@@ -60,7 +62,8 @@ Comparative fielding metrics
 
 Each page allows the user to select a specific player and dynamically view all relevant insights.
 
-🔧 Key Technical Concepts Used 🔹 Web Scraping in Power BI
+🔧 Key Technical Concepts Used
+🔹 Web Scraping in Power BI
 
 Imported data directly from ESPN Cricinfo web pages
 
